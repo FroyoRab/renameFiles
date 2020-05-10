@@ -22,3 +22,4 @@
 
 ![image-20200510221359338](https://s1.ax1x.com/2020/05/10/Y8yrDJ.png)
 
+**下载链接：https://github.com/FroyoRab/renameFiles/releases**
